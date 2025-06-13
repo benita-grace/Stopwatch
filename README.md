@@ -1,4 +1,4 @@
-# PRODIGY_WD_02
+# Stopwatch
 Web Development Application for Stopwatch
 
 ![Stopwatch](![image](https://github.com/benita-grace/PRODIGY_WD_02/assets/171711103/2db2172c-a084-449d-b29d-3624024cbd23))
